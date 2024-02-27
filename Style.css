@@ -1,0 +1,45 @@
+body{
+    background-image: url(Tortino.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: blur(10px);
+}
+.Image-container img{
+    width: 700px;
+}
+.Image-container{
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+    font-size: 70px;
+    color: aliceblue;
+    
+}
+.Presentazione{
+    text-align: center;
+    font-size: 50px;
+}
+.Divpresentazione{
+    background: linear-gradient(171deg, #1e2020, #1a1511);
+    color: aliceblue;
+    font-size: 20px;
+    border: solid;
+    border-width: 1px;
+    border-color: aliceblue;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.collegamenti{
+    background-color: black;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+}
